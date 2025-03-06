@@ -1,0 +1,6 @@
+ORDERSTATUSKEY;ORDERSTATUSNAME
+1;Approved 
+2;In progress
+3;Ready to send
+4;Finished
+5;Canceled

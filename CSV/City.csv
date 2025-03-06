@@ -1,0 +1,585 @@
+CITYKEY;CITYNAME;COUNTRYKEY
+337;Clarkston;1
+338;Columbus;1
+339;Decatur;1
+340;La Grange;1
+341;Marietta;1
+342;Mcdonough;1
+343;Savannah;1
+344;Suwanee;1
+345;Idaho Falls;1
+346;Lewiston;1
+347;Sandpoint;1
+348;Carol Stream;1
+349;Chicago;1
+350;Elgin;1
+351;Joliet;1
+352;Moline;1
+353;Norridge;1
+354;Peoria;1
+355;Tuscola;1
+356;West Chicago;1
+357;Wood Dale;1
+358;Daleville;1
+359;Fort Wayne;1
+360;Indianapolis;1
+361;Logansport;1
+362;Michigan City;1
+363;New Castle;1
+364;South Bend;1
+365;Campbellsville;1
+366;Newport;1
+367;Saint Matthews;1
+368;Somerset;1
+369;Braintree;1
+370;Norwood;1
+371;Randolph;1
+372;Saugus;1
+373;Wrentham;1
+374;Baltimore;1
+375;Kittery;1
+376;Detroit;1
+377;Holland;1
+378;Howell;1
+379;Madison Heights;1
+380;Midland;1
+381;Monroe;1
+382;Novi;1
+383;Pontiac;1
+384;Port Huron;1
+385;Redford;1
+386;Saginaw;1
+387;Southfield;1
+388;Southgate;1
+389;Westland;1
+390;Zeeland;1
+391;Branch;1
+392;Duluth;1
+393;Edina;1
+394;Medford;1
+395;Minneapolis;1
+396;Woodbury;1
+397;Branson;1
+398;Ferguson;1
+399;Jefferson City;1
+400;Kansas City;1
+401;Odessa;1
+402;Saint Ann;1
+403;Saint Louis;1
+404;Biloxi;1
+405;Gulfport;1
+406;Tupelo;1
+407;Billings;1
+408;Great Falls;1
+409;Missoula;1
+410;Charlotte;1
+411;Greensboro;1
+412;Kannapolis;1
+413;Raleigh;1
+414;Rocky Mount;1
+415;Smithfield;1
+416;Winston-Salem;1
+417;Hooksett;1
+418;Nashua;1
+419;Plaistow;1
+420;Tilton;1
+421;Las Cruces;1
+422;Rio Rancho;1
+423;Santa Fe;1
+424;Fernley;1
+425;Las Vegas;1
+426;North Las Vegas;1
+427;Reno;1
+428;Sparks;1
+429;Central Valley;1
+430;Cheektowaga;1
+431;Clay;1
+432;De Witt;1
+433;Endicott;1
+434;Ithaca;1
+435;Lake George;1
+436;Melville;1
+437;New Hartford;1
+438;New York;1
+439;Valley Stream;1
+440;Cincinnati;1
+441;Euclid;1
+442;Heath;1
+443;Mansfield;1
+444;Mentor;1
+445;North Randall;1
+446;Oberlin;1
+447;Springdale;1
+448;Albany;1
+449;Beaverton;1
+450;Clackamas;1
+451;Corvallis;1
+452;Hillsboro;1
+453;Klamath Falls;1
+454;Lake Oswego;1
+455;Lebanon;1
+456;Milwaukie;1
+457;Oregon City;1
+458;Portland;1
+459;Salem;1
+460;Springfield;1
+461;Tigard;1
+462;Troutdale;1
+463;W. Linn;1
+464;Woodburn;1
+465;Warwick;1
+466;West Kingston;1
+467;Woonsocket;1
+468;Bluffton;1
+469;Gaffney;1
+470;Myrtle Beach;1
+471;Denby;1
+472;North Sioux City;1
+473;Crossville;1
+474;Hixson;1
+475;Kingsport;1
+476;La Vergne;1
+477;Maryville;1
+478;Memphis;1
+479;Millington;1
+480;Nashville;1
+481;Pigeon Forge;1
+482;Arlington;1
+483;Austin;1
+484;Baytown;1
+485;Carrollton;1
+486;Cedar Park;1
+487;College Station;1
+488;Corpus Christi;1
+489;Dallas;1
+490;Fort Worth;1
+491;Garland;1
+492;Houston;1
+493;Humble;1
+494;Irving;1
+495;Killeen;1
+496;La Marque;1
+497;Laredo;1
+498;Mesquite;1
+499;Plano;1
+500;Round Rock;1
+501;San Antonio;1
+502;Stafford;1
+503;Sugar Land;1
+504;Bountiful;1
+505;Cedar City;1
+506;Ogden;1
+507;Park City;1
+508;Riverton;1
+509;Salt Lake City;1
+510;Sandy;1
+511;Tooele;1
+512;Chantilly;1
+513;Falls Church;1
+514;Leesburg;1
+515;Newport News;1
+516;Virginia Beach;1
+517;Ballard;1
+518;Bellevue;1
+519;Bellingham;1
+520;Bothell;1
+521;Bremerton;1
+522;Burien;1
+523;Chehalis;1
+524;Edmonds;1
+525;Ellensburg;1
+526;Everett;1
+527;Federal Way;1
+528;Issaquah;1
+529;Kelso;1
+530;Kenmore;1
+531;Kennewick;1
+532;Kent;1
+533;Kirkland;1
+534;Lacey;1
+535;Longview;1
+536;Lynnwood;1
+537;Marysville;1
+538;Newport Hills;1
+539;North Bend;1
+540;Olympia;1
+541;Port Orchard;1
+542;Puyallup;1
+543;Redmond;1
+544;Renton;1
+545;Sammamish;1
+546;Seattle;1
+547;Sedro Woolley;1
+548;Sequim;1
+549;Shelton;1
+550;Spokane;1
+551;Tacoma;1
+552;Union Gap;1
+553;Walla Walla;1
+554;Washougal;1
+555;Wenatchee;1
+556;Woodinville;1
+557;Yakima;1
+558;Johnson Creek;1
+559;Milwaukee;1
+560;Mosinee;1
+561;Racine;1
+562;Casper;1
+563;Cheyenne;1
+564;Rock Springs;1
+565;Warsaw;8
+566;Cracow;8
+567;Gdansk;8
+568;Poznan;8
+569;Rome;7
+570;Milan;7
+571;Naples;7
+572;Venice;7
+573;Amsterdam;9
+574;Antwerp;9
+575;Maastricht;9
+576;Haga;9
+577;Rotterdam;9
+578;Madrid;10
+579;Alicante;10
+580;Murcia;10
+581;Sevilla;10
+582;Valencia;10
+583;Barcelona;10
+584;Cordoba;10
+1;Alexandria;5
+2;Coffs Harbour;5
+3;Darlinghurst;5
+4;Goulburn;5
+5;Lane Cove;5
+6;Lavender Bay;5
+7;Malabar;5
+8;Matraville;5
+9;Milsons Point;5
+10;Newcastle;5
+11;North Ryde;5
+12;North Sydney;5
+13;Port Macquarie;5
+14;Rhodes;5
+15;Silverwater;5
+16;Springwood;5
+17;St. Leonards;5
+18;Sydney;5
+19;Wollongong;5
+20;Brisbane;5
+21;Caloundra;5
+22;East Brisbane;5
+23;Gold Coast;5
+24;Hawthorne;5
+25;Hervey Bay;5
+26;Rockhampton;5
+27;Townsville;5
+28;Cloverdale;5
+29;Findon;5
+30;Perth;5
+31;Hobart;5
+32;Bendigo;5
+33;Cranbourne;5
+34;Geelong;5
+35;Melbourne;5
+36;Melton;5
+37;Seaford;5
+38;South Melbourne;5
+39;Sunbury;5
+40;Warrnambool;5
+41;Calgary;4
+42;Edmonton;4
+43;Burnaby;4
+44;Cliffside;4
+45;Haney;4
+46;Langford;4
+47;Langley;4
+48;Metchosin;4
+49;N. Vancouver;4
+50;Newton;4
+51;Oak Bay;4
+52;Port Hammond;4
+53;Richmond;4
+54;Royal Oak;4
+55;Shawnee;4
+56;Sooke;4
+57;Surrey;4
+58;Vancouver;4
+59;Victoria;4
+60;Westminster;4
+61;Winnipeg;4
+62;Saint John;4
+63;Aurora;4
+64;Barrie;4
+65;Brampton;4
+66;Chalk Riber;4
+67;Etobicoke;4
+68;Kanata;4
+69;Kingston;4
+70;Markham;4
+71;Mississauga;4
+72;Nepean;4
+73;North York;4
+74;Ottawa;4
+75;Richmond Hill;4
+76;Scarborough;4
+77;Toronto;4
+78;Waterloo;4
+79;Weston;4
+80;Brossard;4
+81;Dorval;4
+82;Hull;4
+83;Montreal;4
+84;Outremont;4
+85;Pnot-Rouge;4
+86;Quebec;4
+87;Sainte-Foy;4
+88;Sillery;4
+89;Ville De'anjou;4
+90;Berlin;2
+91;Eilenburg;2
+92;Augsburg;2
+93;Erlangen;2
+94;Frankfurt;2
+95;Grevenbroich;2
+96;Hof;2
+97;Ingolstadt;2
+98;Bad Soden;2
+99;Darmstadt;2
+100;Dresden;2
+101;Duesseldorf;2
+102;Hamburg;2
+103;Kassel;2
+104;M?nchen;2
+105;Salzgitter;2
+106;Ascheim;2
+107;Bonn;2
+108;Essen;2
+109;Frankfurt am Main;2
+110;Muehlheim;2
+111;M?hlheim;2
+112;Paderborn;2
+113;Bottrop;2
+114;Braunschweig;2
+115;Hannover;2
+116;Leipzig;2
+117;Solingen;2
+118;Werne;2
+119;Kiel;2
+120;M?nster;2
+121;Neunkirchen;2
+122;Offenbach;2
+123;Poing;2
+124;Saarbr?cken;2
+125;Saarlouis;2
+126;Stuttgart;2
+127;Sulzbach Taunus;2
+128;Saint Ouen;6
+129;Colomiers;6
+130;Aujan Mournede;6
+131;Orleans;6
+132;Metz;6
+133;Croix;6
+134;Dunkerque;6
+135;Lille;6
+136;Roncq;6
+137;Roubaix;6
+138;Villeneuve-d'Ascq;6
+139;Boulogne-sur-Mer;6
+140;Paris;6
+141;Lieusaint;6
+142;Roissy en Brie;6
+143;Chatou;6
+144;Saint Germain en Laye;6
+145;Versailles;6
+146;Les Ulis;6
+147;Morangis;6
+148;Verrieres Le Buisson;6
+149;Boulogne-Billancourt;6
+150;Colombes;6
+151;Courbevoie;6
+152;Paris La Defense;6
+153;S?vres;6
+154;Suresnes;6
+155;Bobigny;6
+156;Drancy;6
+157;Pantin;6
+158;Saint-Denis;6
+159;Tremblay-en-France;6
+160;Orly;6
+161;Cergy;6
+162;Abingdon;3
+163;Basingstoke Hants;3
+164;Berks;3
+165;Berkshire;3
+166;Billericay;3
+167;Birmingham;3
+168;Bracknell;3
+169;Bury;3
+170;Cambridge;3
+171;Cheltenham;3
+172;Esher-Molesey;3
+173;Gateshead;3
+174;Gloucestershire;3
+175;High Wycombe;3
+176;Kirkby;3
+177;Lancaster;3
+178;Leeds;3
+179;London;3
+180;Maidenhead;3
+181;Milton Keynes;3
+182;Newcastle upon Tyne;3
+183;Oxford;3
+184;Oxon;3
+185;Peterborough;3
+186;Reading;3
+187;Runcorn;3
+188;Liverpool;3
+189;Stoke-on-Trent;3
+190;W. York;3
+191;Warrington;3
+192;Watford;3
+193;West Sussex;3
+194;Wokingham;3
+195;Woolston;3
+196;York;3
+197;Birmingham;1
+198;Florence;1
+199;Huntsville;1
+200;Mobile;1
+201;Montgomery;1
+202;Chandler;1
+203;Gilbert;1
+204;Mesa;1
+205;Phoenix;1
+206;Scottsdale;1
+207;Surprise;1
+208;Tucson;1
+209;Alhambra;1
+210;Alpine;1
+211;Auburn;1
+212;Baldwin Park;1
+213;Barstow;1
+214;Bell Gardens;1
+215;Bellflower;1
+216;Berkeley;1
+217;Beverly Hills;1
+218;Burbank;1
+219;Burlingame;1
+220;Camarillo;1
+221;Canoga Park;1
+222;Carson;1
+223;Cerritos;1
+224;Chula Vista;1
+225;Citrus Heights;1
+226;City Of Commerce;1
+227;Colma;1
+228;Concord;1
+229;Coronado;1
+230;Culver City;1
+231;Daly City;1
+232;Downey;1
+233;El Cajon;1
+234;El Segundo;1
+235;Elk Grove;1
+236;Escondido;1
+237;Eureka;1
+238;Fontana;1
+239;Fremont;1
+240;Fullerton;1
+241;Gilroy;1
+242;Glendale;1
+243;Grossmont;1
+244;Hanford;1
+245;Hayward;1
+246;Imperial Beach;1
+247;Irvine;1
+248;La Jolla;1
+249;La Mesa;1
+250;Lake Elsinore;1
+251;Lakewood;1
+252;Lemon Grove;1
+253;Lincoln Acres;1
+254;Long Beach;1
+255;Los Angeles;1
+256;Mill Valley;1
+257;Milpitas;1
+258;Modesto;1
+259;Monrovia;1
+260;National City;1
+261;Newark;1
+262;Newport Beach;1
+263;Norwalk;1
+264;Novato;1
+265;Oakland;1
+266;Ontario;1
+267;Orange;1
+268;Oxnard;1
+269;Palo Alto;1
+270;Pleasanton;1
+271;Redlands;1
+272;Redwood City;1
+273;Sacramento;1
+274;San Bruno;1
+275;San Carlos;1
+276;San Diego;1
+277;San Francisco;1
+278;San Gabriel;1
+279;San Jose;1
+280;San Mateo;1
+281;San Ramon;1
+282;San Ysidro;1
+283;Sand City;1
+284;Santa Ana;1
+285;Santa Cruz;1
+286;Santa Monica;1
+287;Sherman Oaks;1
+288;Simi Valley;1
+289;Spring Valley;1
+290;Stockton;1
+291;Torrance;1
+292;Trabuco Canyon;1
+293;Union City;1
+294;Upland;1
+295;Vacaville;1
+296;Van Nuys;1
+297;Visalia;1
+298;Vista;1
+299;Walnut Creek;1
+300;West Covina;1
+301;Whittier;1
+302;Woodland Hills;1
+303;Denver;1
+304;Englewood;1
+305;Greeley;1
+306;Longmont;1
+307;Loveland;1
+308;Parker;1
+309;Westminster;1
+310;East Haven;1
+311;Farmington;1
+312;Hamden;1
+313;Milford;1
+314;New Haven;1
+315;Stamford;1
+316;Waterbury;1
+317;Westport;1
+318;Altamonte Springs;1
+319;Bradenton;1
+320;Clearwater;1
+321;Destin;1
+322;Hollywood;1
+323;Kendall;1
+324;Lakeland;1
+325;Merritt Island;1
+326;Miami;1
+327;North Miami Beach;1
+328;Orlando;1
+329;Sarasota;1
+330;Sunrise;1
+331;Tampa;1
+332;Vero Beach;1
+333;Atlanta;1
+334;Augusta;1
+335;Austell;1
+336;Byron;1
